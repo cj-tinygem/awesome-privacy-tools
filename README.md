@@ -160,6 +160,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [2FAS](https://2fas.com/) - Two-factor authentication app with browser extension support.
 - [Aegis Authenticator](https://getaegis.app/) - Encrypted 2FA token manager for Android.
 - [Bitwarden](https://bitwarden.com/) - Open-source password manager with hosted and self-hosted options.
+- [Bossanova](https://bsnv.app/) - Proprietary Windows/macOS encrypted local vault for notes and API keys, with optional MCP for approved API calls and program execution; requires an account and periodic online license checks.
 - [Ente Auth](https://ente.io/auth/) - Open-source, end-to-end encrypted 2FA app.
 - [KeePassDX](https://www.keepassdx.com/) - Android client compatible with KeePass databases.
 - [KeePassXC](https://keepassxc.org/) - Offline password manager for desktop.
